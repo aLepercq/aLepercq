@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
 </p>
-<h2>Softaware & Tools</h2>
+<h2>Software & Tools</h2>
 <p align="left">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Git-DE7C16?style=plastic&logo=git&logoColor=white">
