@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Antoine Lepercq!</h1>
+<h1 align="center">Hello there, I'm Antoine Lepercq!</h1>
 
 <p align="center">
  <a><img src="http://readme-typing-svg.herokuapp.com?font=Avenir&color=%2307D1F7&size=24&center=true&vCenter=true&width=380&lines=Data+Analyst+at+M%C3%A9diam%C3%A9trie;Lepercorp+Founder+%26+CEO;Data+Alchemist+Studio+co-Founder;Esport+enthusiast"></a>
