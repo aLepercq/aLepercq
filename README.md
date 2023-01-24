@@ -6,7 +6,7 @@
  
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI & Big Data-blue" />
-  <img src="https://img.shields.io/badge/Location-Paris, France-blue" />
+  <img src="https://img.shields.io/badge/Location-Nantes, France-blue" />
   <img src="https://img.shields.io/badge/Languages-French & English-blue" />
 </p>
 
@@ -53,6 +53,7 @@
 <h2>Documentation</h2>
 <p align="left"> 
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=Confluence&logoColor=white">
+<img src="https://img.shields.io/badge/JIRA-172B4D?style=plastic&logo=JIRA&logoColor=white">
 <img src="https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=LaTeX&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=Markdown&logoColor=white">
 </p>
