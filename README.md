@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Antoine Lepercq!</h1>
 
 <p align="center">
- <a><img src="http://readme-typing-svg.herokuapp.com?font=Avenir&color=%2307D1F7&size=24&center=true&vCenter=true&width=380&lines=Data+Engineer+at+Extia;Lepercorp+Founder+%26+CEO;Data+Alchemist+Studio+co-Founder;Esport+enthusiast"></a>
+ <a><img src="http://readme-typing-svg.herokuapp.com?font=Avenir&color=%2307D1F7&size=24&center=true&vCenter=true&width=380&lines=Data+Engineer+at+Extia / Rail Europe;Lepercorp+Founder+%26+CEO;Data+Alchemist+Studio+co-Founder;Esport+enthusiast"></a>
 </p>
  
 <p align="center">
